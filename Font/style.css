@@ -1,0 +1,215 @@
+@font-face {
+  font-family: 'IconLibs';
+  src:  url('fonts/IconLibs.eot?eouja7');
+  src:  url('fonts/IconLibs.eot?eouja7#iefix') format('embedded-opentype'),
+    url('fonts/IconLibs.ttf?eouja7') format('truetype'),
+    url('fonts/IconLibs.woff?eouja7') format('woff'),
+    url('fonts/IconLibs.svg?eouja7#IconLibs') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon-vt-"], [class*=" icon-vt-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'IconLibs' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-vt-perl:before {
+  content: "\e97a";
+}
+.icon-vt-php:before {
+  content: "\e97b";
+}
+.icon-vt-python:before {
+  content: "\e97c";
+}
+.icon-vt-actionscript3:before {
+  content: "\e97d";
+}
+.icon-vt-typescript:before {
+  content: "\e97e";
+}
+.icon-vt-java:before {
+  content: "\e97f";
+}
+.icon-vt-c:before {
+  content: "\e980";
+}
+.icon-vt-csharp:before {
+  content: "\e981";
+}
+.icon-vt-cpp:before {
+  content: "\e982";
+}
+.icon-vt-ngangular:before {
+  content: "\e983";
+}
+.icon-vt-monogame:before {
+  content: "\e984";
+}
+.icon-vt-mono:before {
+  content: "\e985";
+}
+.icon-vt-angular:before {
+  content: "\e986";
+}
+.icon-vt-ogre3d:before {
+  content: "\e900";
+}
+.icon-vt-sfml:before {
+  content: "\e901";
+}
+.icon-vt-qt:before {
+  content: "\e903";
+}
+.icon-vt-symfony:before {
+  content: "\e904";
+}
+.icon-vt-starling:before {
+  content: "\e906";
+}
+.icon-vt-directx12:before {
+  content: "\e912";
+}
+.icon-vt-vulkan:before {
+  content: "\e968";
+}
+.icon-vt-webgl:before {
+  content: "\e969";
+}
+.icon-vt-opengl:before {
+  content: "\e96a";
+}
+.icon-vt-boost:before {
+  content: "\e96b";
+}
+.icon-vt-electron:before {
+  content: "\e987";
+}
+.icon-vt-dia:before {
+  content: "\e967";
+}
+.icon-vt-androidstudio:before {
+  content: "\e911";
+}
+.icon-vt-renderdoc:before {
+  content: "\e95f";
+}
+.icon-vt-cmake:before {
+  content: "\e960";
+}
+.icon-vt-flashdevelop:before {
+  content: "\e961";
+}
+.icon-vt-xampp:before {
+  content: "\e962";
+}
+.icon-vt-visualstudiocode:before {
+  content: "\e963";
+}
+.icon-vt-visualstudio:before {
+  content: "\e964";
+}
+.icon-vt-trello:before {
+  content: "\e965";
+}
+.icon-vt-ios:before {
+  content: "\e988";
+}
+.icon-vt-android:before {
+  content: "\e989";
+}
+.icon-vt-osx:before {
+  content: "\e96c";
+}
+.icon-vt-linux:before {
+  content: "\e96d";
+}
+.icon-vt-windows:before {
+  content: "\e96e";
+}
+.icon-vt-pc:before {
+  content: "\e96f";
+}
+.icon-vt-control2600:before {
+  content: "\e970";
+}
+.icon-vt-switch:before {
+  content: "\e971";
+}
+.icon-vt-switchcontroller:before {
+  content: "\e972";
+}
+.icon-vt-ps4:before {
+  content: "\e973";
+}
+.icon-vt-playstation:before {
+  content: "\e974";
+}
+.icon-vt-pscontroller:before {
+  content: "\e975";
+}
+.icon-vt-ps4controller:before {
+  content: "\e976";
+}
+.icon-vt-xbox1:before {
+  content: "\e977";
+}
+.icon-vt-xbox:before {
+  content: "\e978";
+}
+.icon-vt-xbox1controller:before {
+  content: "\e979";
+}
+.icon-vt-defold:before {
+  content: "\e95e";
+}
+.icon-vt-torque3d:before {
+  content: "\e966";
+}
+.icon-vt-jme3d:before {
+  content: "\e902";
+}
+.icon-vt-godot:before {
+  content: "\e905";
+}
+.icon-vt-unity:before {
+  content: "\e907";
+}
+.icon-vt-cocos2dx:before {
+  content: "\e908";
+}
+.icon-vt-xenko:before {
+  content: "\e909";
+}
+.icon-vt-cryengine:before {
+  content: "\e90a";
+}
+.icon-vt-lumberyard:before {
+  content: "\e90b";
+}
+.icon-vt-armory:before {
+  content: "\e90c";
+}
+.icon-vt-playcanvas:before {
+  content: "\e90d";
+}
+.icon-vt-atomic:before {
+  content: "\e90e";
+}
+.icon-vt-banshee:before {
+  content: "\e90f";
+}
+.icon-vt-unreal4:before {
+  content: "\e910";
+}
