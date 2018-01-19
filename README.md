@@ -1,5 +1,5 @@
 # Engineer Font
-It's a icons font including a lot of Game Engine, Tools and Languages logos. I created this icons font to use in my apps, and personal website and anyone can use it under MIT Licence.
+It's an icons font including a lot of Game Engine, Tools and Languages logos. I created this icons font to use in my apps, and personal website and anyone can use it under MIT Licence.
 
 It includes many logos, but if I'm missing something, please get it contact with me or send a PR.
 
